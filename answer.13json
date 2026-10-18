@@ -1,0 +1,1 @@
+{"A":{"text":"Report job-a8e22d17: café\nReady ✓","complete":true,"error":null},"B":{"text":"Partial job-a8e22d17","complete":false,"error":null},"C":{"text":"Draft job-a8e22d17","complete":false,"error":"model unloaded"}}
